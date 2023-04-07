@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello there!
-I am a software engineer specialized in frontend development, currently training as a web3 developer!
+Hello there, I am a software engineer specialized in frontend development, currently training as a web3 developer!
 
 
 # 💻 Tech Stack:
